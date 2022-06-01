@@ -1,0 +1,6 @@
+[submodule "cmake-find-avrdude"]
+	path = cmake-find-avrdude
+	url = git@github.com:LanguidSmartass/cmake-find-avrdude.git
+[submodule "cmake-toolchain-file"]
+	path = cmake-toolchain-file
+	url = git@github.com:LanguidSmartass/cmake-toolchain-file.git
