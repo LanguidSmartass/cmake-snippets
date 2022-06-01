@@ -1,2 +1,2 @@
 # cmake-snippets
-Snippets, functions and macros for CMake
+Collection of cmake scripts and functions organized as git submodules
